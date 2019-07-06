@@ -4,7 +4,7 @@
 ### Installation Requirements
 * Laptop,computer or any smartphone
 * Click on the website link below
-##Link to the Website
+###Link to the Website
 ####https://daisyarusey.github.io/photography-website/
 ### License
 *This project is licensed under MIT licensing*
